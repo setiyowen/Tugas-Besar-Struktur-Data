@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1588229863 source:d:\stukturdata\tubesstd\multilist\siswa.cpp
+	"siswa.h"
+
+1588230462 d:\stukturdata\tubesstd\multilist\siswa.h
+	<iostream>
+
+1588237822 source:d:\stukturdata\tubesstd\multilist\matakuliah.cpp
+	"matakuliah.h"
+
+1588237298 d:\stukturdata\tubesstd\multilist\matakuliah.h
+	<iostream>
+
+1588237738 source:d:\stukturdata\tubesstd\multilist\kelas.cpp
+	"kelas.h"
+
+1588237738 d:\stukturdata\tubesstd\multilist\kelas.h
+	<iostream>
+	"siswa.h"
+
+1588239352 source:d:\stukturdata\tubesstd\multilist\main.cpp
+	<iostream>
+	"siswa.h"
+	"matakuliah.h"
+	"kelas.h"
+
+1588237738 d:\stukturdata\tubesstd\multilist\relasi1n.h
+	"siswa.h"
+	"matakuliah.h"
+	"kelas.h"
+
+1588238424 source:d:\stukturdata\tubesstd\multilist\relasi1n.cpp
+
